@@ -1,0 +1,9 @@
+build/
+data/
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.user
+*.log.tmp
